@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  top: 0;
+}
+
+img {
+  max-width: 30%;
+}
+h1 {
+  text-align: center;
+}
+
+.container {
+  border: 5px solid rgb(221, 197, 245);
+  background: rgb(231, 245, 239);
+  margin: 10%;
+  padding: 0.5em;
+  font-size: 1em;
+}
