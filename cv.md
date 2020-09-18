@@ -17,12 +17,12 @@ I want to be a web developer
 - NodeJS
 
 ```
-*function* count (string) {
+function count (string) {
  let count = {};
 string.split('').forEach(function(s) {
 count[s] ? count[s]++ : count[s] = 1;
 });
-*return* count;
+return count;
 }
 ```
 
